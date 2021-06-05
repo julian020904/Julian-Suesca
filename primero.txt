@@ -1,2 +1,3 @@
 Julian Suesca 
 1104
+Todavia tengo que  mirar ciertos comando que tengo anotados para la utilizacion de git pero en general se utilizarlo de manera fluida y en git hub considero que uedo experimentar mas con las diversas opciones que me ofrece pero en general es bastante sensillo su utilizacion 
