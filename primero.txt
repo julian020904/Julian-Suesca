@@ -1,5 +1,5 @@
-Julian Suesca 
-1104
+# Julian Suesca 
+# 1104
 Todavia tengo que  mirar ciertos comando que tengo anotados 
 para la utilizacion de git pero en general se utilizarlo de 
 manera fluida y en git hub considero que uedo experimentar 
